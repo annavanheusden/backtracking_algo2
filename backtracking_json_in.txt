@@ -1,0 +1,72 @@
+[
+ {"invoer":[
+    {
+      "persoon": 1,
+      "nietvrienden": [3]
+    },
+    {
+      "persoon": 2,
+      "nietvrienden": [3]
+    },
+    {
+      "persoon": 3,
+      "nietvrienden": [2]
+    },
+    {
+      "persoon": 4,
+      "nietvrienden": [5]
+    },
+    {
+      "persoon": 5,
+      "nietvrienden": [2]
+    }
+  ]
+ },
+ {"invoer":[
+    {
+      "persoon": 1,
+      "nietvrienden": []
+    },
+    {
+      "persoon": 2,
+      "nietvrienden": []
+    },
+    {
+      "persoon": 3,
+      "nietvrienden": []
+    },
+    {
+      "persoon": 4,
+      "nietvrienden": []
+    },
+    {
+      "persoon": 5,
+      "nietvrienden": []
+    }
+  ]
+ }
+ ,
+ {"invoer":[
+    {
+      "persoon": 1,
+      "nietvrienden": [2,3]
+    },
+    {
+      "persoon": 2,
+      "nietvrienden": [3]
+    },
+    {
+      "persoon": 3,
+      "nietvrienden": [2,5]
+    },
+    {
+      "persoon": 4,
+      "nietvrienden": [5]
+    },
+    {
+      "persoon": 5,
+      "nietvrienden": [1,2]
+    }
+  ]
+ }
+]
